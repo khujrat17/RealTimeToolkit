@@ -10,7 +10,7 @@
 		<LangVersion>10.0</LangVersion>
 		<Description>Cross-version SignalR Toolkit supporting .NET 8/7 and .NET Framework 4.x — easy real-time communication toolkit for all .NET developers.</Description>
 		<PackageTags>signalr;realtime;dotnet;notifications;websocket;net8;net7;netframework</PackageTags>
-		<RepositoryUrl>https://github.com/khujrat17/RealTimeToolkit.NET</RepositoryUrl>
+		<RepositoryUrl>https://github.com/khujrat17/RealTimeToolkit</RepositoryUrl>
 		<PackageLicenseExpression>MIT</PackageLicenseExpression>
 		<PackageRequireLicenseAcceptance>false</PackageRequireLicenseAcceptance>
 	</PropertyGroup>
