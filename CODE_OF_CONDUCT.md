@@ -15,7 +15,7 @@ Unacceptable behavior includes:
 - Publishing others’ private information
 
 ## Enforcement
-Instances of abusive, harassing, or otherwise unacceptable behavior may be reported to **Khujrat S Shaikh** at [your-email@example.com].  
+Instances of abusive, harassing, or otherwise unacceptable behavior may be reported to **Khujrat S Shaikh** at [Khujratshaikh1284@example.com].  
 Maintainers will review and take appropriate action as necessary.
 
 ## Attribution
